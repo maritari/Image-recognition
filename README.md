@@ -1,2 +1,2 @@
-# Image-recognition
-Image recognition of color images
+# 
+Turun yliopiston Tekoälyn maisteriopintojen kurssien harjoitustöitä
